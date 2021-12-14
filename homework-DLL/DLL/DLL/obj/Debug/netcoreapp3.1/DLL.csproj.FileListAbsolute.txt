@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.exe
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.deps.json
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.json
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.dev.json
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.dll
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.pdb
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\bin\Debug\netcoreapp3.1\DLLLibrary1.dll
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\bin\Debug\netcoreapp3.1\DLLLibrary1.pdb
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CopyComplete
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.dll
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.pdb
+C:\Users\HP\Desktop\homework-DLL\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.genruntimeconfig.cache
